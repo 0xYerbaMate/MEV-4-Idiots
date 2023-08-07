@@ -6,12 +6,12 @@
 
 ## MEV made easy, don't expect to compete as this carries the basic concepts of contracts & mempool data.
 
-#Packages
+# Packages
 ## • NodeJS
 ## • Ethers 
 ## • Web3 
 
 
-#Free API Calls
+# Free API Calls
 ## • Infura - API 
 ## • yourPreference - API 
